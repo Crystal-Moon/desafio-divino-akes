@@ -1,0 +1,16 @@
+{
+  "appname": "royalapp",
+  "appport": "0",
+  "url": "/",
+  "mode": "window",
+  "window": {
+    "title": "Desafio Divino - AKES",
+    "width": "1000",
+    "height": "700",
+    "fullscreen": false,
+    "alwaysontop": false,
+    "iconfile": "icon.png",
+    "enableinspector": false,
+    "borderlesswindow": false
+  }
+}
