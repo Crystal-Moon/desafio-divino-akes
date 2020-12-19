@@ -2,7 +2,7 @@
   "appname": "royalapp",
   "appport": "0",
   "url": "/",
-  "mode": "window",
+  "mode": "browser",
   "window": {
     "title": "Desafio Divino - AKES",
     "width": "1000",
