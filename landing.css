@@ -24,6 +24,7 @@ ul{background-color: #49669a;padding: 1.5em;border-top-right-radius: 1em;border-
 #down img{height: auto;width: 100%;display: block;}
 #down .hover{display:block;position: absolute;visibility: hidden;height: 90%;width: 98%;background-color: rgba(250,250,250,0.2);margin: auto;left:0;right:0;top:0;bottom:0;border-radius: 0.3em;}
 #down:hover .hover{visibility: visible;}
+.web{display: none;} /* sin version web por ahora */
 #web{display: block;width: 53%;height: 3em;line-height: 3em;text-align: center;margin: auto;background-color: #5c44a2;color: white;text-decoration: none;font-size: 1.1em;font-family: cursive;border-radius: 0.6em;border: 2px solid #49669a;box-shadow: 8px 9px 8px 0px rgba(0,0,0,0.75);-webkit-box-shadow: 8px 9px 8px 0px rgba(0,0,0,0.75);-moz-box-shadow: 8px 9px 8px 0px rgba(0,0,0,0.75);}
 #web:hover{border-color: white;background-color: #725ab5;}
 #fire{height: 14em;margin-left: auto;margin-right: auto;border: 2px solid black;}
